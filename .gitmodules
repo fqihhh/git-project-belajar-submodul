@@ -1,0 +1,3 @@
+[submodule "repo1/git-project-belajar-submodul"]
+	path = repo1/git-project-belajar-submodul
+	url = https://github.com/fqihhh/git-project-belajar-submodul.git
