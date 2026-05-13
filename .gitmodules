@@ -1,3 +1,0 @@
-[submodule "repo1/SUBMODULE"]
-	path = repo1/SUBMODULE
-	url = https://github.com/fqihhh/SUBMODULE.git
