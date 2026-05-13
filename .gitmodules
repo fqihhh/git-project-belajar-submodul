@@ -1,3 +1,6 @@
 [submodule "git-project-belajar-submodul"]
 	path = git-project-belajar-submodul
 	url = https://github.com/fqihhh/git-project-belajar-submodul.git
+[submodule "anak1-modul"]
+	path = anak1-modul
+	url = git@github.com:fqihhh/anak1-modul.git
