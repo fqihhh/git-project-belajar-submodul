@@ -1,0 +1,3 @@
+[submodule "SUBMODULE"]
+	path = SUBMODULE
+	url = https://github.com/fqihhh/SUBMODULE.git
