@@ -4,3 +4,6 @@
 [submodule "anak1-modul"]
 	path = anak1-modul
 	url = git@github.com:fqihhh/anak1-modul.git
+[submodule "anak2-modul"]
+	path = anak2-modul
+	url = git@github.com:fqihhh/anak2-modul.git
