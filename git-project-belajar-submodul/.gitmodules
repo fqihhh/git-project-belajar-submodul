@@ -1,0 +1,3 @@
+[submodule "belajar-submodul"]
+	path = belajar-submodul
+	url = https://github.com/fqihhh/belajar-submodul.git
